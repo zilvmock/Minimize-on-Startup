@@ -1,0 +1,2 @@
+# MoS
+Minimize on Startup
